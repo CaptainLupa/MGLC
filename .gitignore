@@ -4,3 +4,4 @@ python-packages/
 saves/
 cache/
 *.rpyc
+*.py
