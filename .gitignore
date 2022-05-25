@@ -1,0 +1,6 @@
+*.rpa
+*.idea
+python-packages/
+saves/
+cache/
+*.rpyc
